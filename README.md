@@ -37,7 +37,7 @@ Mule accounts pass every transaction-pattern check because the transactions them
 To run the Finomaly prototype on your local machine:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/finomaly.git
+   git clone https://github.com/vasu85730-web/finomaly.git
    cd finomaly
 Install dependencies:
 bash
